@@ -12,3 +12,7 @@ Simple custom checkbox with treeview,
 * easy to customize.
 * no packages are used.
 ```
+## License:
+you are free to use this simple treeview and customize it ;)
+
+Template is **Forked From** https://codepen.io/fsbdev/pen/nILhu
